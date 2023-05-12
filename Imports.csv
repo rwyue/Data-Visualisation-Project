@@ -1,0 +1,595 @@
+Continent,Region,Country,Value,Type,Year_
+Europe,European Union (EU),Austria,245.0,Imports,2013
+Europe,European Union (EU),Belgium,1199.0,Imports,2013
+Europe,European Union (EU),Bulgaria,87.0,Imports,2013
+Europe,European Union (EU),Croatia,25.0,Imports,2013
+Europe,European Union (EU),Cyprus,285.0,Imports,2013
+Europe,European Union (EU),Czechia,243.0,Imports,2013
+Europe,European Union (EU),Denmark,563.0,Imports,2013
+Europe,European Union (EU),Estonia,29.0,Imports,2013
+Europe,European Union (EU),Finland,229.0,Imports,2013
+Europe,European Union (EU),France,3274.0,Imports,2013
+Europe,European Union (EU),Germany,4736.0,Imports,2013
+Europe,European Union (EU),Greece,152.0,Imports,2013
+Europe,European Union (EU),Hungary,196.0,Imports,2013
+Europe,European Union (EU),Ireland,4084.0,Imports,2013
+Europe,European Union (EU),Italy,1324.0,Imports,2013
+Europe,European Union (EU),Latvia,25.0,Imports,2013
+Europe,European Union (EU),Lithuania,24.0,Imports,2013
+Europe,European Union (EU),Luxembourg,1404.0,Imports,2013
+Europe,European Union (EU),Malta,65.0,Imports,2013
+Europe,European Union (EU),Netherlands,2727.0,Imports,2013
+Europe,European Union (EU),Poland,521.0,Imports,2013
+Europe,European Union (EU),Portugal,195.0,Imports,2013
+Europe,European Union (EU),Romania,125.0,Imports,2013
+Europe,European Union (EU),Slovakia,83.0,Imports,2013
+Europe,European Union (EU),Slovenia,0.0,Imports,2013
+Europe,European Union (EU),Spain,1305.0,Imports,2013
+Europe,European Union (EU),Sweden,1183.0,Imports,2013
+Europe,European Free Trade Association (EFTA),Iceland,9.0,Imports,2013
+Europe,European Free Trade Association (EFTA),Liechtenstein,3.0,Imports,2013
+Europe,European Free Trade Association (EFTA),Norway,459.0,Imports,2013
+Europe,European Free Trade Association (EFTA),Switzerland,2179.0,Imports,2013
+Europe,Other Europe,Russia,390.0,Imports,2013
+Europe,Other Europe,Isle Of Man,13.0,Imports,2013
+Europe,Other Europe,Turkey,188.0,Imports,2013
+Europe,Other Europe,Rest Of Europe,241.0,Imports,2013
+Europe,Other Europe,Europe Unallocated,1303.0,Imports,2013
+America,America,Brazil,140.0,Imports,2013
+America,America,Canada,760.0,Imports,2013
+America,America,Mexico,43.0,Imports,2013
+America,America,USA,11642.0,Imports,2013
+America,America,Rest Of America,697.0,Imports,2013
+America,America,America Unallocated,54.0,Imports,2013
+Asia,Asia,China,591.0,Imports,2013
+Asia,Asia,Hong Kong,638.0,Imports,2013
+Asia,Asia,India,1355.0,Imports,2013
+Asia,Asia,Indonesia,43.0,Imports,2013
+Asia,Asia,Israel,363.0,Imports,2013
+Asia,Asia,Japan,1238.0,Imports,2013
+Asia,Asia,Malaysia,60.0,Imports,2013
+Asia,Asia,Pakistan,106.0,Imports,2013
+Asia,Asia,Philippines,121.0,Imports,2013
+Asia,Asia,Saudi Arabia,113.0,Imports,2013
+Asia,Asia,Singapore,1192.0,Imports,2013
+Asia,Asia,South Korea,203.0,Imports,2013
+Asia,Asia,Taiwan,87.0,Imports,2013
+Asia,Asia,Thailand,57.0,Imports,2013
+Asia,Asia,Rest Of Asia,1452.0,Imports,2013
+Asia,Asia,Asia Unallocated,418.0,Imports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,0.0,Imports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,75.0,Imports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Imports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2013
+Africa,Africa,Nigeria,297.0,Imports,2013
+Africa,Africa,South Africa,332.0,Imports,2013
+Africa,Africa,Rest Of Africa,637.0,Imports,2013
+Africa,Africa,Africa Unallocated,239.0,Imports,2013
+Europe,European Union (EU),Austria,380.0,Imports,2014
+Europe,European Union (EU),Belgium,1010.0,Imports,2014
+Europe,European Union (EU),Bulgaria,57.0,Imports,2014
+Europe,European Union (EU),Croatia,16.0,Imports,2014
+Europe,European Union (EU),Cyprus,141.0,Imports,2014
+Europe,European Union (EU),Czechia,178.0,Imports,2014
+Europe,European Union (EU),Denmark,713.0,Imports,2014
+Europe,European Union (EU),Estonia,25.0,Imports,2014
+Europe,European Union (EU),Finland,216.0,Imports,2014
+Europe,European Union (EU),France,3586.0,Imports,2014
+Europe,European Union (EU),Germany,5287.0,Imports,2014
+Europe,European Union (EU),Greece,111.0,Imports,2014
+Europe,European Union (EU),Hungary,178.0,Imports,2014
+Europe,European Union (EU),Ireland,3335.0,Imports,2014
+Europe,European Union (EU),Italy,1542.0,Imports,2014
+Europe,European Union (EU),Latvia,15.0,Imports,2014
+Europe,European Union (EU),Lithuania,26.0,Imports,2014
+Europe,European Union (EU),Luxembourg,1693.0,Imports,2014
+Europe,European Union (EU),Malta,55.0,Imports,2014
+Europe,European Union (EU),Netherlands,2393.0,Imports,2014
+Europe,European Union (EU),Poland,506.0,Imports,2014
+Europe,European Union (EU),Portugal,277.0,Imports,2014
+Europe,European Union (EU),Romania,153.0,Imports,2014
+Europe,European Union (EU),Slovakia,82.0,Imports,2014
+Europe,European Union (EU),Slovenia,0.0,Imports,2014
+Europe,European Union (EU),Spain,1392.0,Imports,2014
+Europe,European Union (EU),Sweden,1167.0,Imports,2014
+Europe,European Free Trade Association (EFTA),Iceland,24.0,Imports,2014
+Europe,European Free Trade Association (EFTA),Liechtenstein,2.0,Imports,2014
+Europe,European Free Trade Association (EFTA),Norway,466.0,Imports,2014
+Europe,European Free Trade Association (EFTA),Switzerland,1791.0,Imports,2014
+Europe,Other Europe,Russia,288.0,Imports,2014
+Europe,Other Europe,Isle Of Man,14.0,Imports,2014
+Europe,Other Europe,Turkey,127.0,Imports,2014
+Europe,Other Europe,Rest Of Europe,201.0,Imports,2014
+Europe,Other Europe,Europe Unallocated,1326.0,Imports,2014
+America,America,Brazil,149.0,Imports,2014
+America,America,Canada,791.0,Imports,2014
+America,America,Mexico,40.0,Imports,2014
+America,America,USA,12945.0,Imports,2014
+America,America,Rest Of America,861.0,Imports,2014
+America,America,America Unallocated,76.0,Imports,2014
+Asia,Asia,China,521.0,Imports,2014
+Asia,Asia,Hong Kong,666.0,Imports,2014
+Asia,Asia,India,1519.0,Imports,2014
+Asia,Asia,Indonesia,55.0,Imports,2014
+Asia,Asia,Israel,241.0,Imports,2014
+Asia,Asia,Japan,1410.0,Imports,2014
+Asia,Asia,Malaysia,191.0,Imports,2014
+Asia,Asia,Pakistan,93.0,Imports,2014
+Asia,Asia,Philippines,127.0,Imports,2014
+Asia,Asia,Saudi Arabia,71.0,Imports,2014
+Asia,Asia,Singapore,1507.0,Imports,2014
+Asia,Asia,South Korea,205.0,Imports,2014
+Asia,Asia,Taiwan,100.0,Imports,2014
+Asia,Asia,Thailand,172.0,Imports,2014
+Asia,Asia,Rest Of Asia,946.0,Imports,2014
+Asia,Asia,Asia Unallocated,424.0,Imports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,873.0,Imports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,39.0,Imports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Imports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2014
+Africa,Africa,Nigeria,75.0,Imports,2014
+Africa,Africa,South Africa,325.0,Imports,2014
+Africa,Africa,Rest Of Africa,574.0,Imports,2014
+Africa,Africa,Africa Unallocated,186.0,Imports,2014
+Europe,European Union (EU),Austria,345.0,Imports,2015
+Europe,European Union (EU),Belgium,1264.0,Imports,2015
+Europe,European Union (EU),Bulgaria,89.0,Imports,2015
+Europe,European Union (EU),Croatia,21.0,Imports,2015
+Europe,European Union (EU),Cyprus,181.0,Imports,2015
+Europe,European Union (EU),Czechia,257.0,Imports,2015
+Europe,European Union (EU),Denmark,553.0,Imports,2015
+Europe,European Union (EU),Estonia,31.0,Imports,2015
+Europe,European Union (EU),Finland,181.0,Imports,2015
+Europe,European Union (EU),France,3568.0,Imports,2015
+Europe,European Union (EU),Germany,4910.0,Imports,2015
+Europe,European Union (EU),Greece,119.0,Imports,2015
+Europe,European Union (EU),Hungary,140.0,Imports,2015
+Europe,European Union (EU),Ireland,3791.0,Imports,2015
+Europe,European Union (EU),Italy,1401.0,Imports,2015
+Europe,European Union (EU),Latvia,17.0,Imports,2015
+Europe,European Union (EU),Lithuania,31.0,Imports,2015
+Europe,European Union (EU),Luxembourg,1905.0,Imports,2015
+Europe,European Union (EU),Malta,73.0,Imports,2015
+Europe,European Union (EU),Netherlands,2720.0,Imports,2015
+Europe,European Union (EU),Poland,619.0,Imports,2015
+Europe,European Union (EU),Portugal,244.0,Imports,2015
+Europe,European Union (EU),Romania,142.0,Imports,2015
+Europe,European Union (EU),Slovakia,85.0,Imports,2015
+Europe,European Union (EU),Slovenia,0.0,Imports,2015
+Europe,European Union (EU),Spain,1333.0,Imports,2015
+Europe,European Union (EU),Sweden,1824.0,Imports,2015
+Europe,European Free Trade Association (EFTA),Iceland,16.0,Imports,2015
+Europe,European Free Trade Association (EFTA),Liechtenstein,23.0,Imports,2015
+Europe,European Free Trade Association (EFTA),Norway,400.0,Imports,2015
+Europe,European Free Trade Association (EFTA),Switzerland,2603.0,Imports,2015
+Europe,Other Europe,Russia,294.0,Imports,2015
+Europe,Other Europe,Isle Of Man,9.0,Imports,2015
+Europe,Other Europe,Turkey,370.0,Imports,2015
+Europe,Other Europe,Rest Of Europe,146.0,Imports,2015
+Europe,Other Europe,Europe Unallocated,1494.0,Imports,2015
+America,America,Brazil,184.0,Imports,2015
+America,America,Canada,563.0,Imports,2015
+America,America,Mexico,45.0,Imports,2015
+America,America,USA,13880.0,Imports,2015
+America,America,Rest Of America,683.0,Imports,2015
+America,America,America Unallocated,57.0,Imports,2015
+Asia,Asia,China,861.0,Imports,2015
+Asia,Asia,Hong Kong,760.0,Imports,2015
+Asia,Asia,India,1759.0,Imports,2015
+Asia,Asia,Indonesia,72.0,Imports,2015
+Asia,Asia,Israel,375.0,Imports,2015
+Asia,Asia,Japan,1702.0,Imports,2015
+Asia,Asia,Malaysia,147.0,Imports,2015
+Asia,Asia,Pakistan,35.0,Imports,2015
+Asia,Asia,Philippines,319.0,Imports,2015
+Asia,Asia,Saudi Arabia,84.0,Imports,2015
+Asia,Asia,Singapore,1196.0,Imports,2015
+Asia,Asia,South Korea,207.0,Imports,2015
+Asia,Asia,Taiwan,86.0,Imports,2015
+Asia,Asia,Thailand,64.0,Imports,2015
+Asia,Asia,Rest Of Asia,1188.0,Imports,2015
+Asia,Asia,Asia Unallocated,209.0,Imports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1096.0,Imports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,70.0,Imports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Imports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2015
+Africa,Africa,Nigeria,97.0,Imports,2015
+Africa,Africa,South Africa,408.0,Imports,2015
+Africa,Africa,Rest Of Africa,520.0,Imports,2015
+Africa,Africa,Africa Unallocated,114.0,Imports,2015
+Europe,European Union (EU),Austria,355.0,Imports,2016
+Europe,European Union (EU),Belgium,1331.0,Imports,2016
+Europe,European Union (EU),Bulgaria,138.0,Imports,2016
+Europe,European Union (EU),Croatia,23.0,Imports,2016
+Europe,European Union (EU),Cyprus,135.0,Imports,2016
+Europe,European Union (EU),Czechia,305.0,Imports,2016
+Europe,European Union (EU),Denmark,638.0,Imports,2016
+Europe,European Union (EU),Estonia,36.0,Imports,2016
+Europe,European Union (EU),Finland,226.0,Imports,2016
+Europe,European Union (EU),France,4392.0,Imports,2016
+Europe,European Union (EU),Germany,6395.0,Imports,2016
+Europe,European Union (EU),Greece,106.0,Imports,2016
+Europe,European Union (EU),Hungary,183.0,Imports,2016
+Europe,European Union (EU),Ireland,4736.0,Imports,2016
+Europe,European Union (EU),Italy,1664.0,Imports,2016
+Europe,European Union (EU),Latvia,30.0,Imports,2016
+Europe,European Union (EU),Lithuania,41.0,Imports,2016
+Europe,European Union (EU),Luxembourg,2078.0,Imports,2016
+Europe,European Union (EU),Malta,153.0,Imports,2016
+Europe,European Union (EU),Netherlands,3751.0,Imports,2016
+Europe,European Union (EU),Poland,759.0,Imports,2016
+Europe,European Union (EU),Portugal,242.0,Imports,2016
+Europe,European Union (EU),Romania,217.0,Imports,2016
+Europe,European Union (EU),Slovakia,79.0,Imports,2016
+Europe,European Union (EU),Slovenia,22.0,Imports,2016
+Europe,European Union (EU),Spain,1362.0,Imports,2016
+Europe,European Union (EU),Sweden,1482.0,Imports,2016
+Europe,European Free Trade Association (EFTA),Iceland,47.0,Imports,2016
+Europe,European Free Trade Association (EFTA),Liechtenstein,39.0,Imports,2016
+Europe,European Free Trade Association (EFTA),Norway,559.0,Imports,2016
+Europe,European Free Trade Association (EFTA),Switzerland,2480.0,Imports,2016
+Europe,Other Europe,Russia,304.0,Imports,2016
+Europe,Other Europe,Isle Of Man,40.0,Imports,2016
+Europe,Other Europe,Turkey,198.0,Imports,2016
+Europe,Other Europe,Rest Of Europe,292.0,Imports,2016
+Europe,Other Europe,Europe Unallocated,1580.0,Imports,2016
+America,America,Brazil,220.0,Imports,2016
+America,America,Canada,707.0,Imports,2016
+America,America,Mexico,82.0,Imports,2016
+America,America,USA,16734.0,Imports,2016
+America,America,Rest Of America,808.0,Imports,2016
+America,America,America Unallocated,100.0,Imports,2016
+Asia,Asia,China,832.0,Imports,2016
+Asia,Asia,Hong Kong,854.0,Imports,2016
+Asia,Asia,India,2066.0,Imports,2016
+Asia,Asia,Indonesia,63.0,Imports,2016
+Asia,Asia,Israel,279.0,Imports,2016
+Asia,Asia,Japan,2443.0,Imports,2016
+Asia,Asia,Malaysia,335.0,Imports,2016
+Asia,Asia,Pakistan,35.0,Imports,2016
+Asia,Asia,Philippines,214.0,Imports,2016
+Asia,Asia,Saudi Arabia,132.0,Imports,2016
+Asia,Asia,Singapore,1389.0,Imports,2016
+Asia,Asia,South Korea,242.0,Imports,2016
+Asia,Asia,Taiwan,106.0,Imports,2016
+Asia,Asia,Thailand,73.0,Imports,2016
+Asia,Asia,Rest Of Asia,1373.0,Imports,2016
+Asia,Asia,Asia Unallocated,224.0,Imports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,824.0,Imports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,62.0,Imports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,14.0,Imports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,2.0,Imports,2016
+Africa,Africa,Nigeria,104.0,Imports,2016
+Africa,Africa,South Africa,424.0,Imports,2016
+Africa,Africa,Rest Of Africa,865.0,Imports,2016
+Africa,Africa,Africa Unallocated,158.0,Imports,2016
+Europe,European Union (EU),Austria,444.0,Imports,2017
+Europe,European Union (EU),Belgium,1350.0,Imports,2017
+Europe,European Union (EU),Bulgaria,176.0,Imports,2017
+Europe,European Union (EU),Croatia,44.0,Imports,2017
+Europe,European Union (EU),Cyprus,137.0,Imports,2017
+Europe,European Union (EU),Czechia,385.0,Imports,2017
+Europe,European Union (EU),Denmark,781.0,Imports,2017
+Europe,European Union (EU),Estonia,19.0,Imports,2017
+Europe,European Union (EU),Finland,231.0,Imports,2017
+Europe,European Union (EU),France,4917.0,Imports,2017
+Europe,European Union (EU),Germany,6597.0,Imports,2017
+Europe,European Union (EU),Greece,108.0,Imports,2017
+Europe,European Union (EU),Hungary,372.0,Imports,2017
+Europe,European Union (EU),Ireland,5340.0,Imports,2017
+Europe,European Union (EU),Italy,1460.0,Imports,2017
+Europe,European Union (EU),Latvia,23.0,Imports,2017
+Europe,European Union (EU),Lithuania,59.0,Imports,2017
+Europe,European Union (EU),Luxembourg,2170.0,Imports,2017
+Europe,European Union (EU),Malta,98.0,Imports,2017
+Europe,European Union (EU),Netherlands,4134.0,Imports,2017
+Europe,European Union (EU),Poland,986.0,Imports,2017
+Europe,European Union (EU),Portugal,337.0,Imports,2017
+Europe,European Union (EU),Romania,258.0,Imports,2017
+Europe,European Union (EU),Slovakia,83.0,Imports,2017
+Europe,European Union (EU),Slovenia,0.0,Imports,2017
+Europe,European Union (EU),Spain,1678.0,Imports,2017
+Europe,European Union (EU),Sweden,1832.0,Imports,2017
+Europe,European Free Trade Association (EFTA),Iceland,0.0,Imports,2017
+Europe,European Free Trade Association (EFTA),Liechtenstein,69.0,Imports,2017
+Europe,European Free Trade Association (EFTA),Norway,0.0,Imports,2017
+Europe,European Free Trade Association (EFTA),Switzerland,2511.0,Imports,2017
+Europe,Other Europe,Russia,342.0,Imports,2017
+Europe,Other Europe,Isle Of Man,32.0,Imports,2017
+Europe,Other Europe,Turkey,217.0,Imports,2017
+Europe,Other Europe,Rest Of Europe,358.0,Imports,2017
+Europe,Other Europe,Europe Unallocated,1962.0,Imports,2017
+America,America,Brazil,381.0,Imports,2017
+America,America,Canada,910.0,Imports,2017
+America,America,Mexico,113.0,Imports,2017
+America,America,USA,19669.0,Imports,2017
+America,America,Rest Of America,1568.0,Imports,2017
+America,America,America Unallocated,49.0,Imports,2017
+Asia,Asia,China,825.0,Imports,2017
+Asia,Asia,Hong Kong,808.0,Imports,2017
+Asia,Asia,India,2574.0,Imports,2017
+Asia,Asia,Indonesia,48.0,Imports,2017
+Asia,Asia,Israel,357.0,Imports,2017
+Asia,Asia,Japan,3072.0,Imports,2017
+Asia,Asia,Malaysia,127.0,Imports,2017
+Asia,Asia,Pakistan,39.0,Imports,2017
+Asia,Asia,Philippines,179.0,Imports,2017
+Asia,Asia,Saudi Arabia,111.0,Imports,2017
+Asia,Asia,Singapore,1213.0,Imports,2017
+Asia,Asia,South Korea,278.0,Imports,2017
+Asia,Asia,Taiwan,140.0,Imports,2017
+Asia,Asia,Thailand,71.0,Imports,2017
+Asia,Asia,Rest Of Asia,1016.0,Imports,2017
+Asia,Asia,Asia Unallocated,277.0,Imports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1163.0,Imports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,131.0,Imports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,15.0,Imports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2017
+Africa,Africa,Nigeria,88.0,Imports,2017
+Africa,Africa,South Africa,471.0,Imports,2017
+Africa,Africa,Rest Of Africa,872.0,Imports,2017
+Africa,Africa,Africa Unallocated,239.0,Imports,2017
+Europe,European Union (EU),Austria,548.0,Imports,2018
+Europe,European Union (EU),Belgium,1416.0,Imports,2018
+Europe,European Union (EU),Bulgaria,226.0,Imports,2018
+Europe,European Union (EU),Croatia,41.0,Imports,2018
+Europe,European Union (EU),Cyprus,225.0,Imports,2018
+Europe,European Union (EU),Czechia,504.0,Imports,2018
+Europe,European Union (EU),Denmark,767.0,Imports,2018
+Europe,European Union (EU),Estonia,32.0,Imports,2018
+Europe,European Union (EU),Finland,296.0,Imports,2018
+Europe,European Union (EU),France,6264.0,Imports,2018
+Europe,European Union (EU),Germany,6561.0,Imports,2018
+Europe,European Union (EU),Greece,121.0,Imports,2018
+Europe,European Union (EU),Hungary,362.0,Imports,2018
+Europe,European Union (EU),Ireland,8914.0,Imports,2018
+Europe,European Union (EU),Italy,2236.0,Imports,2018
+Europe,European Union (EU),Latvia,74.0,Imports,2018
+Europe,European Union (EU),Lithuania,238.0,Imports,2018
+Europe,European Union (EU),Luxembourg,2135.0,Imports,2018
+Europe,European Union (EU),Malta,129.0,Imports,2018
+Europe,European Union (EU),Netherlands,4991.0,Imports,2018
+Europe,European Union (EU),Poland,1051.0,Imports,2018
+Europe,European Union (EU),Portugal,364.0,Imports,2018
+Europe,European Union (EU),Romania,295.0,Imports,2018
+Europe,European Union (EU),Slovakia,278.0,Imports,2018
+Europe,European Union (EU),Slovenia,32.0,Imports,2018
+Europe,European Union (EU),Spain,1911.0,Imports,2018
+Europe,European Union (EU),Sweden,3181.0,Imports,2018
+Europe,European Free Trade Association (EFTA),Iceland,19.0,Imports,2018
+Europe,European Free Trade Association (EFTA),Liechtenstein,28.0,Imports,2018
+Europe,European Free Trade Association (EFTA),Norway,672.0,Imports,2018
+Europe,European Free Trade Association (EFTA),Switzerland,4120.0,Imports,2018
+Europe,Other Europe,Russia,356.0,Imports,2018
+Europe,Other Europe,Isle Of Man,40.0,Imports,2018
+Europe,Other Europe,Turkey,198.0,Imports,2018
+Europe,Other Europe,Rest Of Europe,924.0,Imports,2018
+Europe,Other Europe,Europe Unallocated,1832.0,Imports,2018
+America,America,Brazil,258.0,Imports,2018
+America,America,Canada,1106.0,Imports,2018
+America,America,Mexico,101.0,Imports,2018
+America,America,USA,20953.0,Imports,2018
+America,America,Rest Of America,842.0,Imports,2018
+America,America,America Unallocated,41.0,Imports,2018
+Asia,Asia,China,1036.0,Imports,2018
+Asia,Asia,Hong Kong,850.0,Imports,2018
+Asia,Asia,India,3628.0,Imports,2018
+Asia,Asia,Indonesia,52.0,Imports,2018
+Asia,Asia,Israel,470.0,Imports,2018
+Asia,Asia,Japan,3344.0,Imports,2018
+Asia,Asia,Malaysia,152.0,Imports,2018
+Asia,Asia,Pakistan,42.0,Imports,2018
+Asia,Asia,Philippines,215.0,Imports,2018
+Asia,Asia,Saudi Arabia,152.0,Imports,2018
+Asia,Asia,Singapore,1341.0,Imports,2018
+Asia,Asia,South Korea,321.0,Imports,2018
+Asia,Asia,Taiwan,176.0,Imports,2018
+Asia,Asia,Thailand,76.0,Imports,2018
+Asia,Asia,Rest Of Asia,1506.0,Imports,2018
+Asia,Asia,Asia Unallocated,190.0,Imports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1127.0,Imports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,124.0,Imports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,11.0,Imports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2018
+Africa,Africa,Nigeria,85.0,Imports,2018
+Africa,Africa,South Africa,585.0,Imports,2018
+Africa,Africa,Rest Of Africa,685.0,Imports,2018
+Africa,Africa,Africa Unallocated,154.0,Imports,2018
+Europe,European Union (EU),Austria,690.0,Imports,2019
+Europe,European Union (EU),Belgium,1569.0,Imports,2019
+Europe,European Union (EU),Bulgaria,290.0,Imports,2019
+Europe,European Union (EU),Croatia,84.0,Imports,2019
+Europe,European Union (EU),Cyprus,200.0,Imports,2019
+Europe,European Union (EU),Czechia,714.0,Imports,2019
+Europe,European Union (EU),Denmark,956.0,Imports,2019
+Europe,European Union (EU),Estonia,34.0,Imports,2019
+Europe,European Union (EU),Finland,262.0,Imports,2019
+Europe,European Union (EU),France,5539.0,Imports,2019
+Europe,European Union (EU),Germany,6124.0,Imports,2019
+Europe,European Union (EU),Greece,142.0,Imports,2019
+Europe,European Union (EU),Hungary,318.0,Imports,2019
+Europe,European Union (EU),Ireland,8513.0,Imports,2019
+Europe,European Union (EU),Italy,2184.0,Imports,2019
+Europe,European Union (EU),Latvia,65.0,Imports,2019
+Europe,European Union (EU),Lithuania,112.0,Imports,2019
+Europe,European Union (EU),Luxembourg,2330.0,Imports,2019
+Europe,European Union (EU),Malta,67.0,Imports,2019
+Europe,European Union (EU),Netherlands,5032.0,Imports,2019
+Europe,European Union (EU),Poland,1308.0,Imports,2019
+Europe,European Union (EU),Portugal,316.0,Imports,2019
+Europe,European Union (EU),Romania,410.0,Imports,2019
+Europe,European Union (EU),Slovakia,376.0,Imports,2019
+Europe,European Union (EU),Slovenia,66.0,Imports,2019
+Europe,European Union (EU),Spain,2148.0,Imports,2019
+Europe,European Union (EU),Sweden,4065.0,Imports,2019
+Europe,European Free Trade Association (EFTA),Iceland,20.0,Imports,2019
+Europe,European Free Trade Association (EFTA),Liechtenstein,9.0,Imports,2019
+Europe,European Free Trade Association (EFTA),Norway,1252.0,Imports,2019
+Europe,European Free Trade Association (EFTA),Switzerland,4251.0,Imports,2019
+Europe,Other Europe,Russia,309.0,Imports,2019
+Europe,Other Europe,Isle Of Man,44.0,Imports,2019
+Europe,Other Europe,Turkey,207.0,Imports,2019
+Europe,Other Europe,Rest Of Europe,324.0,Imports,2019
+Europe,Other Europe,Europe Unallocated,2317.0,Imports,2019
+America,America,Brazil,155.0,Imports,2019
+America,America,Canada,1994.0,Imports,2019
+America,America,Mexico,166.0,Imports,2019
+America,America,USA,25932.0,Imports,2019
+America,America,Rest Of America,898.0,Imports,2019
+America,America,America Unallocated,38.0,Imports,2019
+Asia,Asia,China,1249.0,Imports,2019
+Asia,Asia,Hong Kong,1095.0,Imports,2019
+Asia,Asia,India,5154.0,Imports,2019
+Asia,Asia,Indonesia,59.0,Imports,2019
+Asia,Asia,Israel,462.0,Imports,2019
+Asia,Asia,Japan,3779.0,Imports,2019
+Asia,Asia,Malaysia,164.0,Imports,2019
+Asia,Asia,Pakistan,34.0,Imports,2019
+Asia,Asia,Philippines,269.0,Imports,2019
+Asia,Asia,Saudi Arabia,143.0,Imports,2019
+Asia,Asia,Singapore,1462.0,Imports,2019
+Asia,Asia,South Korea,324.0,Imports,2019
+Asia,Asia,Taiwan,171.0,Imports,2019
+Asia,Asia,Thailand,84.0,Imports,2019
+Asia,Asia,Rest Of Asia,0.0,Imports,2019
+Asia,Asia,Asia Unallocated,0.0,Imports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1413.0,Imports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,94.0,Imports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Imports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2019
+Africa,Africa,Nigeria,152.0,Imports,2019
+Africa,Africa,South Africa,519.0,Imports,2019
+Africa,Africa,Rest Of Africa,686.0,Imports,2019
+Africa,Africa,Africa Unallocated,222.0,Imports,2019
+Europe,European Union (EU),Austria,526.0,Imports,2020
+Europe,European Union (EU),Belgium,1813.0,Imports,2020
+Europe,European Union (EU),Bulgaria,419.0,Imports,2020
+Europe,European Union (EU),Croatia,56.0,Imports,2020
+Europe,European Union (EU),Cyprus,200.0,Imports,2020
+Europe,European Union (EU),Czechia,453.0,Imports,2020
+Europe,European Union (EU),Denmark,1362.0,Imports,2020
+Europe,European Union (EU),Estonia,44.0,Imports,2020
+Europe,European Union (EU),Finland,306.0,Imports,2020
+Europe,European Union (EU),France,6191.0,Imports,2020
+Europe,European Union (EU),Germany,6506.0,Imports,2020
+Europe,European Union (EU),Greece,363.0,Imports,2020
+Europe,European Union (EU),Hungary,288.0,Imports,2020
+Europe,European Union (EU),Ireland,7734.0,Imports,2020
+Europe,European Union (EU),Italy,2450.0,Imports,2020
+Europe,European Union (EU),Latvia,70.0,Imports,2020
+Europe,European Union (EU),Lithuania,104.0,Imports,2020
+Europe,European Union (EU),Luxembourg,2978.0,Imports,2020
+Europe,European Union (EU),Malta,259.0,Imports,2020
+Europe,European Union (EU),Netherlands,5180.0,Imports,2020
+Europe,European Union (EU),Poland,1542.0,Imports,2020
+Europe,European Union (EU),Portugal,724.0,Imports,2020
+Europe,European Union (EU),Romania,575.0,Imports,2020
+Europe,European Union (EU),Slovakia,357.0,Imports,2020
+Europe,European Union (EU),Slovenia,46.0,Imports,2020
+Europe,European Union (EU),Spain,2468.0,Imports,2020
+Europe,European Union (EU),Sweden,3561.0,Imports,2020
+Europe,European Free Trade Association (EFTA),Iceland,13.0,Imports,2020
+Europe,European Free Trade Association (EFTA),Liechtenstein,13.0,Imports,2020
+Europe,European Free Trade Association (EFTA),Norway,872.0,Imports,2020
+Europe,European Free Trade Association (EFTA),Switzerland,4276.0,Imports,2020
+Europe,Other Europe,Russia,433.0,Imports,2020
+Europe,Other Europe,Isle Of Man,145.0,Imports,2020
+Europe,Other Europe,Turkey,278.0,Imports,2020
+Europe,Other Europe,Rest Of Europe,410.0,Imports,2020
+Europe,Other Europe,Europe Unallocated,1464.0,Imports,2020
+America,America,Brazil,263.0,Imports,2020
+America,America,Canada,1240.0,Imports,2020
+America,America,Mexico,193.0,Imports,2020
+America,America,USA,29302.0,Imports,2020
+America,America,Rest Of America,859.0,Imports,2020
+America,America,America Unallocated,30.0,Imports,2020
+Asia,Asia,China,1589.0,Imports,2020
+Asia,Asia,Hong Kong,996.0,Imports,2020
+Asia,Asia,India,5110.0,Imports,2020
+Asia,Asia,Indonesia,47.0,Imports,2020
+Asia,Asia,Israel,788.0,Imports,2020
+Asia,Asia,Japan,3115.0,Imports,2020
+Asia,Asia,Malaysia,263.0,Imports,2020
+Asia,Asia,Pakistan,30.0,Imports,2020
+Asia,Asia,Philippines,428.0,Imports,2020
+Asia,Asia,Saudi Arabia,202.0,Imports,2020
+Asia,Asia,Singapore,1514.0,Imports,2020
+Asia,Asia,South Korea,497.0,Imports,2020
+Asia,Asia,Taiwan,170.0,Imports,2020
+Asia,Asia,Thailand,96.0,Imports,2020
+Asia,Asia,Rest Of Asia,1726.0,Imports,2020
+Asia,Asia,Asia Unallocated,74.0,Imports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1259.0,Imports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,146.0,Imports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Imports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2020
+Africa,Africa,Nigeria,152.0,Imports,2020
+Africa,Africa,South Africa,440.0,Imports,2020
+Africa,Africa,Rest Of Africa,844.0,Imports,2020
+Africa,Africa,Africa Unallocated,21.0,Imports,2020
+Europe,European Union (EU),Austria,565.0,Imports,2021
+Europe,European Union (EU),Belgium,1363.0,Imports,2021
+Europe,European Union (EU),Bulgaria,353.0,Imports,2021
+Europe,European Union (EU),Croatia,69.0,Imports,2021
+Europe,European Union (EU),Cyprus,183.0,Imports,2021
+Europe,European Union (EU),Czechia,507.0,Imports,2021
+Europe,European Union (EU),Denmark,2134.0,Imports,2021
+Europe,European Union (EU),Estonia,153.0,Imports,2021
+Europe,European Union (EU),Finland,296.0,Imports,2021
+Europe,European Union (EU),France,6941.0,Imports,2021
+Europe,European Union (EU),Germany,9579.0,Imports,2021
+Europe,European Union (EU),Greece,280.0,Imports,2021
+Europe,European Union (EU),Hungary,381.0,Imports,2021
+Europe,European Union (EU),Ireland,9063.0,Imports,2021
+Europe,European Union (EU),Italy,2333.0,Imports,2021
+Europe,European Union (EU),Latvia,79.0,Imports,2021
+Europe,European Union (EU),Lithuania,125.0,Imports,2021
+Europe,European Union (EU),Luxembourg,3218.0,Imports,2021
+Europe,European Union (EU),Malta,97.0,Imports,2021
+Europe,European Union (EU),Netherlands,7138.0,Imports,2021
+Europe,European Union (EU),Poland,1383.0,Imports,2021
+Europe,European Union (EU),Portugal,466.0,Imports,2021
+Europe,European Union (EU),Romania,815.0,Imports,2021
+Europe,European Union (EU),Slovakia,397.0,Imports,2021
+Europe,European Union (EU),Slovenia,159.0,Imports,2021
+Europe,European Union (EU),Spain,2201.0,Imports,2021
+Europe,European Union (EU),Sweden,3480.0,Imports,2021
+Europe,European Free Trade Association (EFTA),Iceland,16.0,Imports,2021
+Europe,European Free Trade Association (EFTA),Liechtenstein,5.0,Imports,2021
+Europe,European Free Trade Association (EFTA),Norway,1859.0,Imports,2021
+Europe,European Free Trade Association (EFTA),Switzerland,5685.0,Imports,2021
+Europe,Other Europe,Russia,630.0,Imports,2021
+Europe,Other Europe,Isle Of Man,217.0,Imports,2021
+Europe,Other Europe,Turkey,337.0,Imports,2021
+Europe,Other Europe,Rest Of Europe,544.0,Imports,2021
+Europe,Other Europe,Europe Unallocated,1962.0,Imports,2021
+America,America,Brazil,414.0,Imports,2021
+America,America,Canada,1450.0,Imports,2021
+America,America,Mexico,211.0,Imports,2021
+America,America,USA,33725.0,Imports,2021
+America,America,Rest Of America,0.0,Imports,2021
+America,America,America Unallocated,0.0,Imports,2021
+Asia,Asia,China,2036.0,Imports,2021
+Asia,Asia,Hong Kong,2279.0,Imports,2021
+Asia,Asia,India,6521.0,Imports,2021
+Asia,Asia,Indonesia,83.0,Imports,2021
+Asia,Asia,Israel,516.0,Imports,2021
+Asia,Asia,Japan,3089.0,Imports,2021
+Asia,Asia,Malaysia,185.0,Imports,2021
+Asia,Asia,Pakistan,86.0,Imports,2021
+Asia,Asia,Philippines,312.0,Imports,2021
+Asia,Asia,Saudi Arabia,155.0,Imports,2021
+Asia,Asia,Singapore,1584.0,Imports,2021
+Asia,Asia,South Korea,552.0,Imports,2021
+Asia,Asia,Taiwan,299.0,Imports,2021
+Asia,Asia,Thailand,103.0,Imports,2021
+Asia,Asia,Rest Of Asia,0.0,Imports,2021
+Asia,Asia,Asia Unallocated,0.0,Imports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1361.0,Imports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,173.0,Imports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,34.0,Imports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Imports,2021
+Africa,Africa,Nigeria,686.0,Imports,2021
+Africa,Africa,South Africa,498.0,Imports,2021
+Africa,Africa,Rest Of Africa,0.0,Imports,2021
+Africa,Africa,Africa Unallocated,0.0,Imports,2021

@@ -1,0 +1,595 @@
+Continent,Region,Country,Value,Type,Year_
+Europe,European Union (EU),Austria,365.0,Exports,2013
+Europe,European Union (EU),Belgium,2064.0,Exports,2013
+Europe,European Union (EU),Bulgaria,93.0,Exports,2013
+Europe,European Union (EU),Croatia,45.0,Exports,2013
+Europe,European Union (EU),Cyprus,456.0,Exports,2013
+Europe,European Union (EU),Czechia,351.0,Exports,2013
+Europe,European Union (EU),Denmark,1539.0,Exports,2013
+Europe,European Union (EU),Estonia,30.0,Exports,2013
+Europe,European Union (EU),Finland,624.0,Exports,2013
+Europe,European Union (EU),France,4798.0,Exports,2013
+Europe,European Union (EU),Germany,7490.0,Exports,2013
+Europe,European Union (EU),Greece,438.0,Exports,2013
+Europe,European Union (EU),Hungary,248.0,Exports,2013
+Europe,European Union (EU),Ireland,6697.0,Exports,2013
+Europe,European Union (EU),Italy,2411.0,Exports,2013
+Europe,European Union (EU),Latvia,46.0,Exports,2013
+Europe,European Union (EU),Lithuania,61.0,Exports,2013
+Europe,European Union (EU),Luxembourg,2090.0,Exports,2013
+Europe,European Union (EU),Malta,265.0,Exports,2013
+Europe,European Union (EU),Netherlands,5584.0,Exports,2013
+Europe,European Union (EU),Poland,679.0,Exports,2013
+Europe,European Union (EU),Portugal,474.0,Exports,2013
+Europe,European Union (EU),Romania,242.0,Exports,2013
+Europe,European Union (EU),Slovakia,205.0,Exports,2013
+Europe,European Union (EU),Slovenia,0.0,Exports,2013
+Europe,European Union (EU),Spain,1863.0,Exports,2013
+Europe,European Union (EU),Sweden,1930.0,Exports,2013
+Europe,European Free Trade Association (EFTA),Iceland,74.0,Exports,2013
+Europe,European Free Trade Association (EFTA),Liechtenstein,32.0,Exports,2013
+Europe,European Free Trade Association (EFTA),Norway,2194.0,Exports,2013
+Europe,European Free Trade Association (EFTA),Switzerland,7712.0,Exports,2013
+Europe,Other Europe,Russia,944.0,Exports,2013
+Europe,Other Europe,Isle Of Man,93.0,Exports,2013
+Europe,Other Europe,Turkey,564.0,Exports,2013
+Europe,Other Europe,Rest Of Europe,622.0,Exports,2013
+Europe,Other Europe,Europe Unallocated,1924.0,Exports,2013
+America,America,Brazil,819.0,Exports,2013
+America,America,Canada,1815.0,Exports,2013
+America,America,Mexico,224.0,Exports,2013
+America,America,USA,26504.0,Exports,2013
+America,America,Rest Of America,3182.0,Exports,2013
+America,America,America Unallocated,371.0,Exports,2013
+Asia,Asia,China,1180.0,Exports,2013
+Asia,Asia,Hong Kong,895.0,Exports,2013
+Asia,Asia,India,863.0,Exports,2013
+Asia,Asia,Indonesia,167.0,Exports,2013
+Asia,Asia,Israel,329.0,Exports,2013
+Asia,Asia,Japan,2140.0,Exports,2013
+Asia,Asia,Malaysia,498.0,Exports,2013
+Asia,Asia,Pakistan,104.0,Exports,2013
+Asia,Asia,Philippines,92.0,Exports,2013
+Asia,Asia,Saudi Arabia,5315.0,Exports,2013
+Asia,Asia,Singapore,1411.0,Exports,2013
+Asia,Asia,South Korea,700.0,Exports,2013
+Asia,Asia,Taiwan,366.0,Exports,2013
+Asia,Asia,Thailand,294.0,Exports,2013
+Asia,Asia,Rest Of Asia,4580.0,Exports,2013
+Asia,Asia,Asia Unallocated,726.0,Exports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,0.0,Exports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,219.0,Exports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Exports,2013
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2013
+Africa,Africa,Nigeria,562.0,Exports,2013
+Africa,Africa,South Africa,968.0,Exports,2013
+Africa,Africa,Rest Of Africa,2793.0,Exports,2013
+Africa,Africa,Africa Unallocated,233.0,Exports,2013
+Europe,European Union (EU),Austria,373.0,Exports,2014
+Europe,European Union (EU),Belgium,1730.0,Exports,2014
+Europe,European Union (EU),Bulgaria,96.0,Exports,2014
+Europe,European Union (EU),Croatia,55.0,Exports,2014
+Europe,European Union (EU),Cyprus,230.0,Exports,2014
+Europe,European Union (EU),Czechia,332.0,Exports,2014
+Europe,European Union (EU),Denmark,1514.0,Exports,2014
+Europe,European Union (EU),Estonia,46.0,Exports,2014
+Europe,European Union (EU),Finland,791.0,Exports,2014
+Europe,European Union (EU),France,4650.0,Exports,2014
+Europe,European Union (EU),Germany,7171.0,Exports,2014
+Europe,European Union (EU),Greece,398.0,Exports,2014
+Europe,European Union (EU),Hungary,280.0,Exports,2014
+Europe,European Union (EU),Ireland,6598.0,Exports,2014
+Europe,European Union (EU),Italy,2292.0,Exports,2014
+Europe,European Union (EU),Latvia,35.0,Exports,2014
+Europe,European Union (EU),Lithuania,49.0,Exports,2014
+Europe,European Union (EU),Luxembourg,2255.0,Exports,2014
+Europe,European Union (EU),Malta,207.0,Exports,2014
+Europe,European Union (EU),Netherlands,7580.0,Exports,2014
+Europe,European Union (EU),Poland,818.0,Exports,2014
+Europe,European Union (EU),Portugal,455.0,Exports,2014
+Europe,European Union (EU),Romania,223.0,Exports,2014
+Europe,European Union (EU),Slovakia,133.0,Exports,2014
+Europe,European Union (EU),Slovenia,0.0,Exports,2014
+Europe,European Union (EU),Spain,2070.0,Exports,2014
+Europe,European Union (EU),Sweden,2009.0,Exports,2014
+Europe,European Free Trade Association (EFTA),Iceland,96.0,Exports,2014
+Europe,European Free Trade Association (EFTA),Liechtenstein,36.0,Exports,2014
+Europe,European Free Trade Association (EFTA),Norway,2212.0,Exports,2014
+Europe,European Free Trade Association (EFTA),Switzerland,7204.0,Exports,2014
+Europe,Other Europe,Russia,1133.0,Exports,2014
+Europe,Other Europe,Isle Of Man,435.0,Exports,2014
+Europe,Other Europe,Turkey,582.0,Exports,2014
+Europe,Other Europe,Rest Of Europe,800.0,Exports,2014
+Europe,Other Europe,Europe Unallocated,2188.0,Exports,2014
+America,America,Brazil,797.0,Exports,2014
+America,America,Canada,1414.0,Exports,2014
+America,America,Mexico,261.0,Exports,2014
+America,America,USA,27821.0,Exports,2014
+America,America,Rest Of America,2806.0,Exports,2014
+America,America,America Unallocated,425.0,Exports,2014
+Asia,Asia,China,1058.0,Exports,2014
+Asia,Asia,Hong Kong,1006.0,Exports,2014
+Asia,Asia,India,975.0,Exports,2014
+Asia,Asia,Indonesia,171.0,Exports,2014
+Asia,Asia,Israel,351.0,Exports,2014
+Asia,Asia,Japan,2456.0,Exports,2014
+Asia,Asia,Malaysia,438.0,Exports,2014
+Asia,Asia,Pakistan,181.0,Exports,2014
+Asia,Asia,Philippines,90.0,Exports,2014
+Asia,Asia,Saudi Arabia,4289.0,Exports,2014
+Asia,Asia,Singapore,2077.0,Exports,2014
+Asia,Asia,South Korea,800.0,Exports,2014
+Asia,Asia,Taiwan,317.0,Exports,2014
+Asia,Asia,Thailand,286.0,Exports,2014
+Asia,Asia,Rest Of Asia,4494.0,Exports,2014
+Asia,Asia,Asia Unallocated,714.0,Exports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1863.0,Exports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,220.0,Exports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Exports,2014
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2014
+Africa,Africa,Nigeria,493.0,Exports,2014
+Africa,Africa,South Africa,1167.0,Exports,2014
+Africa,Africa,Rest Of Africa,3160.0,Exports,2014
+Africa,Africa,Africa Unallocated,261.0,Exports,2014
+Europe,European Union (EU),Austria,388.0,Exports,2015
+Europe,European Union (EU),Belgium,2078.0,Exports,2015
+Europe,European Union (EU),Bulgaria,159.0,Exports,2015
+Europe,European Union (EU),Croatia,53.0,Exports,2015
+Europe,European Union (EU),Cyprus,287.0,Exports,2015
+Europe,European Union (EU),Czechia,351.0,Exports,2015
+Europe,European Union (EU),Denmark,1427.0,Exports,2015
+Europe,European Union (EU),Estonia,30.0,Exports,2015
+Europe,European Union (EU),Finland,604.0,Exports,2015
+Europe,European Union (EU),France,5346.0,Exports,2015
+Europe,European Union (EU),Germany,7276.0,Exports,2015
+Europe,European Union (EU),Greece,342.0,Exports,2015
+Europe,European Union (EU),Hungary,260.0,Exports,2015
+Europe,European Union (EU),Ireland,7188.0,Exports,2015
+Europe,European Union (EU),Italy,3035.0,Exports,2015
+Europe,European Union (EU),Latvia,45.0,Exports,2015
+Europe,European Union (EU),Lithuania,47.0,Exports,2015
+Europe,European Union (EU),Luxembourg,2189.0,Exports,2015
+Europe,European Union (EU),Malta,240.0,Exports,2015
+Europe,European Union (EU),Netherlands,6854.0,Exports,2015
+Europe,European Union (EU),Poland,805.0,Exports,2015
+Europe,European Union (EU),Portugal,409.0,Exports,2015
+Europe,European Union (EU),Romania,230.0,Exports,2015
+Europe,European Union (EU),Slovakia,127.0,Exports,2015
+Europe,European Union (EU),Slovenia,0.0,Exports,2015
+Europe,European Union (EU),Spain,2138.0,Exports,2015
+Europe,European Union (EU),Sweden,2123.0,Exports,2015
+Europe,European Free Trade Association (EFTA),Iceland,118.0,Exports,2015
+Europe,European Free Trade Association (EFTA),Liechtenstein,65.0,Exports,2015
+Europe,European Free Trade Association (EFTA),Norway,1624.0,Exports,2015
+Europe,European Free Trade Association (EFTA),Switzerland,6863.0,Exports,2015
+Europe,Other Europe,Russia,1080.0,Exports,2015
+Europe,Other Europe,Isle Of Man,197.0,Exports,2015
+Europe,Other Europe,Turkey,808.0,Exports,2015
+Europe,Other Europe,Rest Of Europe,726.0,Exports,2015
+Europe,Other Europe,Europe Unallocated,2126.0,Exports,2015
+America,America,Brazil,781.0,Exports,2015
+America,America,Canada,1476.0,Exports,2015
+America,America,Mexico,383.0,Exports,2015
+America,America,USA,27991.0,Exports,2015
+America,America,Rest Of America,3094.0,Exports,2015
+America,America,America Unallocated,328.0,Exports,2015
+Asia,Asia,China,1647.0,Exports,2015
+Asia,Asia,Hong Kong,1241.0,Exports,2015
+Asia,Asia,India,1189.0,Exports,2015
+Asia,Asia,Indonesia,180.0,Exports,2015
+Asia,Asia,Israel,452.0,Exports,2015
+Asia,Asia,Japan,2370.0,Exports,2015
+Asia,Asia,Malaysia,406.0,Exports,2015
+Asia,Asia,Pakistan,150.0,Exports,2015
+Asia,Asia,Philippines,103.0,Exports,2015
+Asia,Asia,Saudi Arabia,4613.0,Exports,2015
+Asia,Asia,Singapore,2311.0,Exports,2015
+Asia,Asia,South Korea,768.0,Exports,2015
+Asia,Asia,Taiwan,298.0,Exports,2015
+Asia,Asia,Thailand,317.0,Exports,2015
+Asia,Asia,Rest Of Asia,4634.0,Exports,2015
+Asia,Asia,Asia Unallocated,771.0,Exports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1787.0,Exports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,175.0,Exports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Exports,2015
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2015
+Africa,Africa,Nigeria,867.0,Exports,2015
+Africa,Africa,South Africa,1037.0,Exports,2015
+Africa,Africa,Rest Of Africa,3216.0,Exports,2015
+Africa,Africa,Africa Unallocated,216.0,Exports,2015
+Europe,European Union (EU),Austria,482.0,Exports,2016
+Europe,European Union (EU),Belgium,2516.0,Exports,2016
+Europe,European Union (EU),Bulgaria,137.0,Exports,2016
+Europe,European Union (EU),Croatia,72.0,Exports,2016
+Europe,European Union (EU),Cyprus,413.0,Exports,2016
+Europe,European Union (EU),Czechia,444.0,Exports,2016
+Europe,European Union (EU),Denmark,1976.0,Exports,2016
+Europe,European Union (EU),Estonia,38.0,Exports,2016
+Europe,European Union (EU),Finland,623.0,Exports,2016
+Europe,European Union (EU),France,6516.0,Exports,2016
+Europe,European Union (EU),Germany,9719.0,Exports,2016
+Europe,European Union (EU),Greece,425.0,Exports,2016
+Europe,European Union (EU),Hungary,325.0,Exports,2016
+Europe,European Union (EU),Ireland,9092.0,Exports,2016
+Europe,European Union (EU),Italy,2680.0,Exports,2016
+Europe,European Union (EU),Latvia,77.0,Exports,2016
+Europe,European Union (EU),Lithuania,75.0,Exports,2016
+Europe,European Union (EU),Luxembourg,2589.0,Exports,2016
+Europe,European Union (EU),Malta,410.0,Exports,2016
+Europe,European Union (EU),Netherlands,7672.0,Exports,2016
+Europe,European Union (EU),Poland,1004.0,Exports,2016
+Europe,European Union (EU),Portugal,393.0,Exports,2016
+Europe,European Union (EU),Romania,273.0,Exports,2016
+Europe,European Union (EU),Slovakia,193.0,Exports,2016
+Europe,European Union (EU),Slovenia,87.0,Exports,2016
+Europe,European Union (EU),Spain,2532.0,Exports,2016
+Europe,European Union (EU),Sweden,2496.0,Exports,2016
+Europe,European Free Trade Association (EFTA),Iceland,155.0,Exports,2016
+Europe,European Free Trade Association (EFTA),Liechtenstein,84.0,Exports,2016
+Europe,European Free Trade Association (EFTA),Norway,1708.0,Exports,2016
+Europe,European Free Trade Association (EFTA),Switzerland,7737.0,Exports,2016
+Europe,Other Europe,Russia,900.0,Exports,2016
+Europe,Other Europe,Isle Of Man,239.0,Exports,2016
+Europe,Other Europe,Turkey,699.0,Exports,2016
+Europe,Other Europe,Rest Of Europe,841.0,Exports,2016
+Europe,Other Europe,Europe Unallocated,2437.0,Exports,2016
+America,America,Brazil,507.0,Exports,2016
+America,America,Canada,2089.0,Exports,2016
+America,America,Mexico,370.0,Exports,2016
+America,America,USA,32733.0,Exports,2016
+America,America,Rest Of America,3533.0,Exports,2016
+America,America,America Unallocated,444.0,Exports,2016
+Asia,Asia,China,1600.0,Exports,2016
+Asia,Asia,Hong Kong,1330.0,Exports,2016
+Asia,Asia,India,1062.0,Exports,2016
+Asia,Asia,Indonesia,153.0,Exports,2016
+Asia,Asia,Israel,581.0,Exports,2016
+Asia,Asia,Japan,2743.0,Exports,2016
+Asia,Asia,Malaysia,477.0,Exports,2016
+Asia,Asia,Pakistan,243.0,Exports,2016
+Asia,Asia,Philippines,123.0,Exports,2016
+Asia,Asia,Saudi Arabia,4874.0,Exports,2016
+Asia,Asia,Singapore,1767.0,Exports,2016
+Asia,Asia,South Korea,851.0,Exports,2016
+Asia,Asia,Taiwan,514.0,Exports,2016
+Asia,Asia,Thailand,212.0,Exports,2016
+Asia,Asia,Rest Of Asia,7388.0,Exports,2016
+Asia,Asia,Asia Unallocated,859.0,Exports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,1968.0,Exports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,223.0,Exports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,69.0,Exports,2016
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,2.0,Exports,2016
+Africa,Africa,Nigeria,397.0,Exports,2016
+Africa,Africa,South Africa,1111.0,Exports,2016
+Africa,Africa,Rest Of Africa,3242.0,Exports,2016
+Africa,Africa,Africa Unallocated,220.0,Exports,2016
+Europe,European Union (EU),Austria,887.0,Exports,2017
+Europe,European Union (EU),Belgium,3292.0,Exports,2017
+Europe,European Union (EU),Bulgaria,132.0,Exports,2017
+Europe,European Union (EU),Croatia,133.0,Exports,2017
+Europe,European Union (EU),Cyprus,435.0,Exports,2017
+Europe,European Union (EU),Czechia,507.0,Exports,2017
+Europe,European Union (EU),Denmark,2046.0,Exports,2017
+Europe,European Union (EU),Estonia,47.0,Exports,2017
+Europe,European Union (EU),Finland,726.0,Exports,2017
+Europe,European Union (EU),France,7242.0,Exports,2017
+Europe,European Union (EU),Germany,10741.0,Exports,2017
+Europe,European Union (EU),Greece,581.0,Exports,2017
+Europe,European Union (EU),Hungary,362.0,Exports,2017
+Europe,European Union (EU),Ireland,11573.0,Exports,2017
+Europe,European Union (EU),Italy,3043.0,Exports,2017
+Europe,European Union (EU),Latvia,56.0,Exports,2017
+Europe,European Union (EU),Lithuania,101.0,Exports,2017
+Europe,European Union (EU),Luxembourg,2986.0,Exports,2017
+Europe,European Union (EU),Malta,334.0,Exports,2017
+Europe,European Union (EU),Netherlands,9740.0,Exports,2017
+Europe,European Union (EU),Poland,1034.0,Exports,2017
+Europe,European Union (EU),Portugal,426.0,Exports,2017
+Europe,European Union (EU),Romania,289.0,Exports,2017
+Europe,European Union (EU),Slovakia,206.0,Exports,2017
+Europe,European Union (EU),Slovenia,0.0,Exports,2017
+Europe,European Union (EU),Spain,2781.0,Exports,2017
+Europe,European Union (EU),Sweden,2548.0,Exports,2017
+Europe,European Free Trade Association (EFTA),Iceland,0.0,Exports,2017
+Europe,European Free Trade Association (EFTA),Liechtenstein,82.0,Exports,2017
+Europe,European Free Trade Association (EFTA),Norway,0.0,Exports,2017
+Europe,European Free Trade Association (EFTA),Switzerland,8030.0,Exports,2017
+Europe,Other Europe,Russia,1294.0,Exports,2017
+Europe,Other Europe,Isle Of Man,236.0,Exports,2017
+Europe,Other Europe,Turkey,747.0,Exports,2017
+Europe,Other Europe,Rest Of Europe,1211.0,Exports,2017
+Europe,Other Europe,Europe Unallocated,2710.0,Exports,2017
+America,America,Brazil,535.0,Exports,2017
+America,America,Canada,2305.0,Exports,2017
+America,America,Mexico,362.0,Exports,2017
+America,America,USA,38223.0,Exports,2017
+America,America,Rest Of America,4221.0,Exports,2017
+America,America,America Unallocated,243.0,Exports,2017
+Asia,Asia,China,2183.0,Exports,2017
+Asia,Asia,Hong Kong,1686.0,Exports,2017
+Asia,Asia,India,908.0,Exports,2017
+Asia,Asia,Indonesia,335.0,Exports,2017
+Asia,Asia,Israel,581.0,Exports,2017
+Asia,Asia,Japan,2941.0,Exports,2017
+Asia,Asia,Malaysia,415.0,Exports,2017
+Asia,Asia,Pakistan,196.0,Exports,2017
+Asia,Asia,Philippines,131.0,Exports,2017
+Asia,Asia,Saudi Arabia,3903.0,Exports,2017
+Asia,Asia,Singapore,2031.0,Exports,2017
+Asia,Asia,South Korea,1233.0,Exports,2017
+Asia,Asia,Taiwan,476.0,Exports,2017
+Asia,Asia,Thailand,287.0,Exports,2017
+Asia,Asia,Rest Of Asia,7276.0,Exports,2017
+Asia,Asia,Asia Unallocated,1416.0,Exports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,2194.0,Exports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,194.0,Exports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,57.0,Exports,2017
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2017
+Africa,Africa,Nigeria,457.0,Exports,2017
+Africa,Africa,South Africa,1133.0,Exports,2017
+Africa,Africa,Rest Of Africa,3144.0,Exports,2017
+Africa,Africa,Africa Unallocated,219.0,Exports,2017
+Europe,European Union (EU),Austria,2017.0,Exports,2018
+Europe,European Union (EU),Belgium,3271.0,Exports,2018
+Europe,European Union (EU),Bulgaria,180.0,Exports,2018
+Europe,European Union (EU),Croatia,162.0,Exports,2018
+Europe,European Union (EU),Cyprus,411.0,Exports,2018
+Europe,European Union (EU),Czechia,462.0,Exports,2018
+Europe,European Union (EU),Denmark,2280.0,Exports,2018
+Europe,European Union (EU),Estonia,59.0,Exports,2018
+Europe,European Union (EU),Finland,849.0,Exports,2018
+Europe,European Union (EU),France,8156.0,Exports,2018
+Europe,European Union (EU),Germany,11165.0,Exports,2018
+Europe,European Union (EU),Greece,606.0,Exports,2018
+Europe,European Union (EU),Hungary,338.0,Exports,2018
+Europe,European Union (EU),Ireland,14608.0,Exports,2018
+Europe,European Union (EU),Italy,3357.0,Exports,2018
+Europe,European Union (EU),Latvia,85.0,Exports,2018
+Europe,European Union (EU),Lithuania,108.0,Exports,2018
+Europe,European Union (EU),Luxembourg,3250.0,Exports,2018
+Europe,European Union (EU),Malta,455.0,Exports,2018
+Europe,European Union (EU),Netherlands,10993.0,Exports,2018
+Europe,European Union (EU),Poland,1050.0,Exports,2018
+Europe,European Union (EU),Portugal,626.0,Exports,2018
+Europe,European Union (EU),Romania,395.0,Exports,2018
+Europe,European Union (EU),Slovakia,248.0,Exports,2018
+Europe,European Union (EU),Slovenia,213.0,Exports,2018
+Europe,European Union (EU),Spain,3346.0,Exports,2018
+Europe,European Union (EU),Sweden,3893.0,Exports,2018
+Europe,European Free Trade Association (EFTA),Iceland,201.0,Exports,2018
+Europe,European Free Trade Association (EFTA),Liechtenstein,93.0,Exports,2018
+Europe,European Free Trade Association (EFTA),Norway,2031.0,Exports,2018
+Europe,European Free Trade Association (EFTA),Switzerland,9598.0,Exports,2018
+Europe,Other Europe,Russia,1256.0,Exports,2018
+Europe,Other Europe,Isle Of Man,476.0,Exports,2018
+Europe,Other Europe,Turkey,732.0,Exports,2018
+Europe,Other Europe,Rest Of Europe,2295.0,Exports,2018
+Europe,Other Europe,Europe Unallocated,2690.0,Exports,2018
+America,America,Brazil,587.0,Exports,2018
+America,America,Canada,2234.0,Exports,2018
+America,America,Mexico,681.0,Exports,2018
+America,America,USA,43373.0,Exports,2018
+America,America,Rest Of America,4459.0,Exports,2018
+America,America,America Unallocated,191.0,Exports,2018
+Asia,Asia,China,2932.0,Exports,2018
+Asia,Asia,Hong Kong,1504.0,Exports,2018
+Asia,Asia,India,2098.0,Exports,2018
+Asia,Asia,Indonesia,371.0,Exports,2018
+Asia,Asia,Israel,855.0,Exports,2018
+Asia,Asia,Japan,3221.0,Exports,2018
+Asia,Asia,Malaysia,428.0,Exports,2018
+Asia,Asia,Pakistan,174.0,Exports,2018
+Asia,Asia,Philippines,146.0,Exports,2018
+Asia,Asia,Saudi Arabia,3135.0,Exports,2018
+Asia,Asia,Singapore,2248.0,Exports,2018
+Asia,Asia,South Korea,1509.0,Exports,2018
+Asia,Asia,Taiwan,824.0,Exports,2018
+Asia,Asia,Thailand,330.0,Exports,2018
+Asia,Asia,Rest Of Asia,6496.0,Exports,2018
+Asia,Asia,Asia Unallocated,2446.0,Exports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,2963.0,Exports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,274.0,Exports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,87.0,Exports,2018
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,1.0,Exports,2018
+Africa,Africa,Nigeria,536.0,Exports,2018
+Africa,Africa,South Africa,1157.0,Exports,2018
+Africa,Africa,Rest Of Africa,2594.0,Exports,2018
+Africa,Africa,Africa Unallocated,269.0,Exports,2018
+Europe,European Union (EU),Austria,1499.0,Exports,2019
+Europe,European Union (EU),Belgium,3646.0,Exports,2019
+Europe,European Union (EU),Bulgaria,158.0,Exports,2019
+Europe,European Union (EU),Croatia,106.0,Exports,2019
+Europe,European Union (EU),Cyprus,531.0,Exports,2019
+Europe,European Union (EU),Czechia,561.0,Exports,2019
+Europe,European Union (EU),Denmark,2550.0,Exports,2019
+Europe,European Union (EU),Estonia,80.0,Exports,2019
+Europe,European Union (EU),Finland,1199.0,Exports,2019
+Europe,European Union (EU),France,8170.0,Exports,2019
+Europe,European Union (EU),Germany,11003.0,Exports,2019
+Europe,European Union (EU),Greece,568.0,Exports,2019
+Europe,European Union (EU),Hungary,470.0,Exports,2019
+Europe,European Union (EU),Ireland,13163.0,Exports,2019
+Europe,European Union (EU),Italy,4131.0,Exports,2019
+Europe,European Union (EU),Latvia,82.0,Exports,2019
+Europe,European Union (EU),Lithuania,198.0,Exports,2019
+Europe,European Union (EU),Luxembourg,4849.0,Exports,2019
+Europe,European Union (EU),Malta,436.0,Exports,2019
+Europe,European Union (EU),Netherlands,10809.0,Exports,2019
+Europe,European Union (EU),Poland,1124.0,Exports,2019
+Europe,European Union (EU),Portugal,627.0,Exports,2019
+Europe,European Union (EU),Romania,373.0,Exports,2019
+Europe,European Union (EU),Slovakia,297.0,Exports,2019
+Europe,European Union (EU),Slovenia,182.0,Exports,2019
+Europe,European Union (EU),Spain,3277.0,Exports,2019
+Europe,European Union (EU),Sweden,3020.0,Exports,2019
+Europe,European Free Trade Association (EFTA),Iceland,183.0,Exports,2019
+Europe,European Free Trade Association (EFTA),Liechtenstein,87.0,Exports,2019
+Europe,European Free Trade Association (EFTA),Norway,2348.0,Exports,2019
+Europe,European Free Trade Association (EFTA),Switzerland,7881.0,Exports,2019
+Europe,Other Europe,Russia,1228.0,Exports,2019
+Europe,Other Europe,Isle Of Man,254.0,Exports,2019
+Europe,Other Europe,Turkey,667.0,Exports,2019
+Europe,Other Europe,Rest Of Europe,2290.0,Exports,2019
+Europe,Other Europe,Europe Unallocated,2865.0,Exports,2019
+America,America,Brazil,799.0,Exports,2019
+America,America,Canada,2480.0,Exports,2019
+America,America,Mexico,520.0,Exports,2019
+America,America,USA,47841.0,Exports,2019
+America,America,Rest Of America,4220.53441,Exports,2019
+America,America,America Unallocated,183.0,Exports,2019
+Asia,Asia,China,3104.0,Exports,2019
+Asia,Asia,Hong Kong,1938.0,Exports,2019
+Asia,Asia,India,2179.0,Exports,2019
+Asia,Asia,Indonesia,331.0,Exports,2019
+Asia,Asia,Israel,910.0,Exports,2019
+Asia,Asia,Japan,3024.0,Exports,2019
+Asia,Asia,Malaysia,519.0,Exports,2019
+Asia,Asia,Pakistan,138.0,Exports,2019
+Asia,Asia,Philippines,199.0,Exports,2019
+Asia,Asia,Saudi Arabia,3448.0,Exports,2019
+Asia,Asia,Singapore,3145.0,Exports,2019
+Asia,Asia,South Korea,1404.0,Exports,2019
+Asia,Asia,Taiwan,702.0,Exports,2019
+Asia,Asia,Thailand,361.0,Exports,2019
+Asia,Asia,Rest Of Asia,0.0,Exports,2019
+Asia,Asia,Asia Unallocated,0.0,Exports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,2893.0,Exports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,237.0,Exports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,84.0,Exports,2019
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,2.0,Exports,2019
+Africa,Africa,Nigeria,462.0,Exports,2019
+Africa,Africa,South Africa,1263.0,Exports,2019
+Africa,Africa,Rest Of Africa,3039.0,Exports,2019
+Africa,Africa,Africa Unallocated,348.0,Exports,2019
+Europe,European Union (EU),Austria,844.0,Exports,2020
+Europe,European Union (EU),Belgium,3643.0,Exports,2020
+Europe,European Union (EU),Bulgaria,301.0,Exports,2020
+Europe,European Union (EU),Croatia,113.0,Exports,2020
+Europe,European Union (EU),Cyprus,528.0,Exports,2020
+Europe,European Union (EU),Czechia,717.0,Exports,2020
+Europe,European Union (EU),Denmark,3559.0,Exports,2020
+Europe,European Union (EU),Estonia,113.0,Exports,2020
+Europe,European Union (EU),Finland,1015.0,Exports,2020
+Europe,European Union (EU),France,7149.0,Exports,2020
+Europe,European Union (EU),Germany,11302.0,Exports,2020
+Europe,European Union (EU),Greece,680.0,Exports,2020
+Europe,European Union (EU),Hungary,964.0,Exports,2020
+Europe,European Union (EU),Ireland,14436.0,Exports,2020
+Europe,European Union (EU),Italy,3710.0,Exports,2020
+Europe,European Union (EU),Latvia,72.0,Exports,2020
+Europe,European Union (EU),Lithuania,131.0,Exports,2020
+Europe,European Union (EU),Luxembourg,5438.0,Exports,2020
+Europe,European Union (EU),Malta,1029.0,Exports,2020
+Europe,European Union (EU),Netherlands,11791.0,Exports,2020
+Europe,European Union (EU),Poland,1287.0,Exports,2020
+Europe,European Union (EU),Portugal,469.0,Exports,2020
+Europe,European Union (EU),Romania,405.0,Exports,2020
+Europe,European Union (EU),Slovakia,308.0,Exports,2020
+Europe,European Union (EU),Slovenia,108.0,Exports,2020
+Europe,European Union (EU),Spain,2985.0,Exports,2020
+Europe,European Union (EU),Sweden,3445.0,Exports,2020
+Europe,European Free Trade Association (EFTA),Iceland,131.0,Exports,2020
+Europe,European Free Trade Association (EFTA),Liechtenstein,55.0,Exports,2020
+Europe,European Free Trade Association (EFTA),Norway,2469.0,Exports,2020
+Europe,European Free Trade Association (EFTA),Switzerland,7720.0,Exports,2020
+Europe,Other Europe,Russia,974.0,Exports,2020
+Europe,Other Europe,Isle Of Man,375.0,Exports,2020
+Europe,Other Europe,Turkey,596.0,Exports,2020
+Europe,Other Europe,Rest Of Europe,1690.0,Exports,2020
+Europe,Other Europe,Europe Unallocated,2084.0,Exports,2020
+America,America,Brazil,759.0,Exports,2020
+America,America,Canada,3040.0,Exports,2020
+America,America,Mexico,469.0,Exports,2020
+America,America,USA,50933.0,Exports,2020
+America,America,Rest Of America,6496.0,Exports,2020
+America,America,America Unallocated,134.0,Exports,2020
+Asia,Asia,China,3672.0,Exports,2020
+Asia,Asia,Hong Kong,2194.0,Exports,2020
+Asia,Asia,India,2951.0,Exports,2020
+Asia,Asia,Indonesia,358.0,Exports,2020
+Asia,Asia,Israel,728.0,Exports,2020
+Asia,Asia,Japan,2736.0,Exports,2020
+Asia,Asia,Malaysia,446.0,Exports,2020
+Asia,Asia,Pakistan,84.0,Exports,2020
+Asia,Asia,Philippines,199.0,Exports,2020
+Asia,Asia,Saudi Arabia,3590.0,Exports,2020
+Asia,Asia,Singapore,3723.0,Exports,2020
+Asia,Asia,South Korea,970.0,Exports,2020
+Asia,Asia,Taiwan,684.0,Exports,2020
+Asia,Asia,Thailand,693.0,Exports,2020
+Asia,Asia,Rest Of Asia,5392.0,Exports,2020
+Asia,Asia,Asia Unallocated,1805.0,Exports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,2794.0,Exports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,282.0,Exports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Exports,2020
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2020
+Africa,Africa,Nigeria,298.0,Exports,2020
+Africa,Africa,South Africa,1416.0,Exports,2020
+Africa,Africa,Rest Of Africa,2384.0,Exports,2020
+Africa,Africa,Africa Unallocated,311.0,Exports,2020
+Europe,European Union (EU),Austria,737.0,Exports,2021
+Europe,European Union (EU),Belgium,4130.0,Exports,2021
+Europe,European Union (EU),Bulgaria,205.0,Exports,2021
+Europe,European Union (EU),Croatia,99.0,Exports,2021
+Europe,European Union (EU),Cyprus,663.0,Exports,2021
+Europe,European Union (EU),Czechia,679.0,Exports,2021
+Europe,European Union (EU),Denmark,2964.0,Exports,2021
+Europe,European Union (EU),Estonia,98.0,Exports,2021
+Europe,European Union (EU),Finland,821.0,Exports,2021
+Europe,European Union (EU),France,7546.0,Exports,2021
+Europe,European Union (EU),Germany,12338.0,Exports,2021
+Europe,European Union (EU),Greece,649.0,Exports,2021
+Europe,European Union (EU),Hungary,957.0,Exports,2021
+Europe,European Union (EU),Ireland,19002.0,Exports,2021
+Europe,European Union (EU),Italy,4061.0,Exports,2021
+Europe,European Union (EU),Latvia,77.0,Exports,2021
+Europe,European Union (EU),Lithuania,153.0,Exports,2021
+Europe,European Union (EU),Luxembourg,7584.0,Exports,2021
+Europe,European Union (EU),Malta,612.0,Exports,2021
+Europe,European Union (EU),Netherlands,12235.0,Exports,2021
+Europe,European Union (EU),Poland,1153.0,Exports,2021
+Europe,European Union (EU),Portugal,614.0,Exports,2021
+Europe,European Union (EU),Romania,336.0,Exports,2021
+Europe,European Union (EU),Slovakia,303.0,Exports,2021
+Europe,European Union (EU),Slovenia,131.0,Exports,2021
+Europe,European Union (EU),Spain,2861.0,Exports,2021
+Europe,European Union (EU),Sweden,3082.0,Exports,2021
+Europe,European Free Trade Association (EFTA),Iceland,138.0,Exports,2021
+Europe,European Free Trade Association (EFTA),Liechtenstein,59.0,Exports,2021
+Europe,European Free Trade Association (EFTA),Norway,2381.0,Exports,2021
+Europe,European Free Trade Association (EFTA),Switzerland,9409.0,Exports,2021
+Europe,Other Europe,Russia,1163.0,Exports,2021
+Europe,Other Europe,Isle Of Man,325.0,Exports,2021
+Europe,Other Europe,Turkey,725.0,Exports,2021
+Europe,Other Europe,Rest Of Europe,2697.0,Exports,2021
+Europe,Other Europe,Europe Unallocated,1866.0,Exports,2021
+America,America,Brazil,603.0,Exports,2021
+America,America,Canada,3195.0,Exports,2021
+America,America,Mexico,479.0,Exports,2021
+America,America,USA,61029.0,Exports,2021
+America,America,Rest Of America,6027.0,Exports,2021
+America,America,America Unallocated,82.0,Exports,2021
+Asia,Asia,China,3408.0,Exports,2021
+Asia,Asia,Hong Kong,3390.0,Exports,2021
+Asia,Asia,India,1561.0,Exports,2021
+Asia,Asia,Indonesia,223.0,Exports,2021
+Asia,Asia,Israel,763.0,Exports,2021
+Asia,Asia,Japan,3830.0,Exports,2021
+Asia,Asia,Malaysia,451.0,Exports,2021
+Asia,Asia,Pakistan,111.0,Exports,2021
+Asia,Asia,Philippines,241.0,Exports,2021
+Asia,Asia,Saudi Arabia,3682.0,Exports,2021
+Asia,Asia,Singapore,3257.0,Exports,2021
+Asia,Asia,South Korea,967.0,Exports,2021
+Asia,Asia,Taiwan,1271.0,Exports,2021
+Asia,Asia,Thailand,344.0,Exports,2021
+Asia,Asia,Rest Of Asia,5559.0,Exports,2021
+Asia,Asia,Asia Unallocated,227.0,Exports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Australia,4312.0,Exports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",New Zealand,363.0,Exports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Rest Of Australia And Oceania,0.0,Exports,2021
+"Australasia, Oceania and Polar Regions","Australasia, Oceania And Polar Regions",Oceania Unallocated,0.0,Exports,2021
+Africa,Africa,Nigeria,443.0,Exports,2021
+Africa,Africa,South Africa,1364.0,Exports,2021
+Africa,Africa,Rest Of Africa,2408.0,Exports,2021
+Africa,Africa,Africa Unallocated,190.0,Exports,2021
